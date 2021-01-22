@@ -1,2 +1,1 @@
-# Dikobot
-Ok
+script bot wa termux
